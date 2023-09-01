@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = franck@axires.tech
+	name = Franck Berneron
